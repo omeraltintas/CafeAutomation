@@ -1,0 +1,16 @@
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\CafeAutomation.Entities.dll.config
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\CafeAutomation.Entities.dll
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\CafeAutomation.Entities.pdb
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\EntityFramework.dll
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\EntityFramework.xml
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\obj\Debug\CafeAutomation.Entities.csproj.AssemblyReference.cache
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\obj\Debug\CafeAutomation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\obj\Debug\CafeAutomation.Entities.csproj.CopyComplete
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\obj\Debug\CafeAutomation.Entities.dll
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\obj\Debug\CafeAutomation.Entities.pdb
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\obj\Debug\CafeAutomation.Entities.Migrations.CreateDb.resources
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\obj\Debug\CafeAutomation.Entities.csproj.GenerateResource.cache
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\FluentValidation.dll
+C:\Users\omerb\source\repos\CafeAutomation\CafeAutomation.Entities\bin\Debug\FluentValidation.xml
